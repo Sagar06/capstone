@@ -1,2 +1,2 @@
 # capstone
-Simple E-commerce Application built using React-Redux
+Simple E-commerce Application built using React-Redux.
