@@ -1,2 +1,0 @@
-# capstone
- E-commerce website
